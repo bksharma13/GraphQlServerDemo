@@ -1,0 +1,13 @@
+{
+   "name": "GraphQLServerNodejsExpress",
+   "type": "module",
+   "private": true,
+   "dependencies": {
+      "apollo-server": "^2.21.2",
+      "apollo-server-express": "^2.21.2",
+      "graphql-playground-middleware-express": "^1.7.22",
+      "pg": "^8.5.1",
+      "postgraphile": "^4.11.0",
+      "postgraphile-apollo-server": "^0.1.1"
+   }
+}
